@@ -140,15 +140,15 @@ A **modern responsive portfolio** to showcase my projects, skills and journey.
 ## 📊 GitHub Stats 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=urjiiko1&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GemachisTesfaye&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>        
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=urjiiko1&theme=tokyonight" alt="GitHub Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GemachisTesfaye&theme=tokyonight" alt="GitHub Summary" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=urjiiko1&layout=donut&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GemachisTesfaye&layout=donut&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
@@ -156,5 +156,5 @@ A **modern responsive portfolio** to showcase my projects, skills and journey.
 ## 📈 Activity Graph 
 
 <p align="center">
-  <img src="https://activity-graph.vercel.app/graph?username=urjiiko1&theme=dracula" alt="GitHub Activity Graph">
+  <img src="https://activity-graph.vercel.app/graph?username=GemachisTesfaye&theme=dracula" alt="GitHub Activity Graph">
 </p>
