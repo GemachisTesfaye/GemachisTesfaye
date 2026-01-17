@@ -32,7 +32,7 @@
 - 👯 Open to collaborate on: **Data Dashboards**, **SQL/MongoDB systems** and **Animated UI projects**  
 - 💬 Ask me about: **Power BI, SQL, MongoDB, CSS animations Data Dashboards**  
 - 🎯 Goal: To grow into a **Data Analyst & Frontend Developer**
-- 📫 Reach me at: [gemachistesfaye36@example.com](mailto:gemachistesfaye36@example.com)  
+- 📫 Reach me at: [gemachistesfaye36@gmail.com](mailto:gemachistesfaye36@gmail.com)  
 
 <p align="center">
   <a href="https://mail.google.com/mail/?view=cm&to=gemachistesfaye36@example.com" target="_blank" style="margin-right: 10px;">
