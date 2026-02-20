@@ -20,15 +20,15 @@
 ## 👨‍🎓 About Me  
 
 🎓 3rd-year **Information Science student at Haramaya University**  
-💡 Passionate about **Data Analysis, Frontend Development, and Database Systems**  
+💡 Passionate about **AI Engineering, Frontend Development and Database Systems**  
 
-- 🔭 Currently building: **Ethiopian Airlines DB System**  
-- 🌱 Learning: **Python, React.js, Power BI, SQL, MongoDB**  
-- 📊 Skilled in: **Database Design, Data Cleaning, Visualization, Responsive UI, JavaScript, React, TailwindCSS, CSS Animations, Flask**  
-- 👯 Open to collaborate on: **Data Dashboards, Web Apps, SQL/MongoDB systems, Animated UI projects**  
-- 💬 Ask me about: **Power BI, SQL, MongoDB, CSS animations, JavaScript, React**  
-- 🎯 Goal: **Grow into a Data Analyst & Frontend Developer**  
-- 📫 Reach me at: [gemachistesfaye36@gmail.com](mailto:gemachistesfaye36@gmail.com)  
+- ✅ Built: **Ethiopian Airlines DB System** – a complete relational database for flights, crew and student discounts  
+- 🌱 Currently learning: **Python, React.js, SQL, MongoDB, AI frameworks**  
+- 📊 Skilled in: **Database Design, AI model basics, Responsive UI, JavaScript, React, TailwindCSS, CSS Animations, Flask**  
+- 👯 Open to collaborate on: **AI projects, Web Apps, SQL/MongoDB systems, Animated UI projects**  
+- 💬 Ask me about: **Python, SQL, MongoDB, JavaScript, React, AI concepts**  
+- 🎯 Goal: **Grow into an AI Engineer & Frontend Developer**  
+- 📫 Reach me at: [gemachistesfaye36@gmail.com](mailto:gemachistesfaye36@gmail.com)
 
 <p align="center">
   <a href="https://mail.google.com/mail/?view=cm&to=gemachistesfaye36@gmail.com" target="_blank" style="margin-right: 10px;">
@@ -44,100 +44,107 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
 
----
-
 <h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1200&color=FF7F50&width=500&lines=📂+Featured+Projects" alt="Featured Projects Typing Animation" />
 </h2>
 
-### ✈️ [Ethiopian Airlines DB](https://github.com/gemachistesfaye/Database-Project)
-A **MySQL relational database** for managing Ethiopian Airlines flights, crew, and student discounts.
+### 🌐 [My Portfolio](https://gemachistesfaye.github.io/portfolio)
+Central hub for all my projects, skills, and contact info.  
+
+- 💼 Showcase of web apps, dashboards & utilities  
+- 🖥️ Live demos with interactive UI  
+- 🛠️ **Tech:** HTML, CSS, JavaScript, React  
+
+> ▶️ **Visit Portfolio:** Soon
+
+---
+
+### ✈️ [Ethiopian Airlines DB](https://gemachistesfaye.github.io/ethiopian-airlines-db)
+A **MySQL relational database** managing flights, crew, and student discounts.  
 
 - 🎓 Automated student ID discount  
 - 🗂️ ERD & 3NF normalization  
 - ⚡ Advanced SQL queries  
 - 🛠️ **Tech:** MySQL, SQL  
 
-> ▶️ **Repo / More Info:** [GitHub Link](https://github.com/gemachistesfaye/Database-Project) 🌐
-
----
-
-### 📊 [E-Commerce Insights Dashboard](https://github.com/gemachistesfaye/FUTURE_DS_01)
-A **Power BI dashboard** analyzing e-commerce datasets to uncover business insights.
-
-- 📈 Top products, discounts & sales segments  
-- 🧹 Data cleaning & DAX visuals  
-- 🛠️ **Tech:** Power BI, Excel  
-
-> ▶️ **Repo / More Info:** [GitHub Link](https://github.com/gemachistesfaye/FUTURE_DS_01) 🌐
+> ▶️ **Live Demo / More Info:** [Live Site](https://gemachistesfaye.github.io/ethiopian-airlines-db) 🌐
 
 ---
 
 ### 🛍️ [Abebe-Bookstore](https://github.com/gemachistesfaye/Abebe-Bookstore)
-A **responsive bookstore web app** showcasing Ethiopian books with category filtering & search.
+A **responsive bookstore web app** showcasing Ethiopian books.  
 
 - 📚 Browse, search, filter books  
 - 🖥️ Interactive UI  
 - 🛠️ **Tech:** React.js, TypeScript, HTML, CSS  
 
-> ▶️ **Repo / More Info:** [GitHub Link](https://github.com/gemachistesfaye/Abebe-Bookstore) 🌐
+> ▶️ **Live Demo:** [Live Site](https://abebebookstore.vercel.app/) 🌐
 
 ---
 
-### 🇪🇹 [Ethiopian-Events-Portal](https://github.com/gemachistesfaye/Ethiopian-Events-Portal)
-Interactive portal for Ethiopian festivals with dual calendars and reminders.
+### 🇪🇹 [Ethiopian Events Portal](https://github.com/gemachistesfaye/Ethiopian-Events-Portal)
+Interactive portal for Ethiopian festivals with dual calendars and reminders.  
 
 - 📅 Festival schedule  
 - 🔔 Notifications & reminders  
 - 🛠️ **Tech:** TypeScript, HTML, CSS  
 
-> ▶️ **Repo / More Info:** [GitHub Link](https://github.com/gemachistesfaye/Ethiopian-Events-Portal) 🌐
+> ▶️ **Live Demo:** Under Finish
+
+---
+
+### 📊 [E-Commerce Insights Dashboard](https://gemachistesfaye.github.io/Ecommerce-Dashboard)
+**Power BI dashboard** analyzing e-commerce datasets.  
+
+- 📈 Top products, discounts & sales segments  
+- 🧹 Data cleaning & DAX visuals  
+- 🛠️ **Tech:** Power BI, Excel  
+
+> ▶️ **Live Dashboard:** [Live Site](https://gemachistesfaye.github.io/Ecommerce-Dashboard) 🌐
 
 ---
 
 ### ⏳ [Age-Calculator](https://github.com/gemachistesfaye/Age-Calculator)
-Precise age-calculation utility handling leap years, month boundaries, and invalid inputs.
+Calculates age in years, months, and days accurately.  
 
-- 🧮 Calculates age in years, months, days  
-- 🔢 Handles all date scenarios correctly  
+- 🧮 Handles leap years & month boundaries  
+- 🔢 Validates all date inputs  
 - 🛠️ **Tech:** JavaScript, HTML, CSS  
 
-> ▶️ **Repo / More Info:** [GitHub Link](https://github.com/gemachistesfaye/Age-Calculator) 🌐
+> ▶️ **Live Demo:** [Live Site](https://gemachistesfaye.github.io/Age-Calculator/) 🌐
 
 ---
 
 ### 🛡️ [Smart-PWD](https://github.com/gemachistesfaye/Smart-PWD)
-Secure, local-first password generator built with HTML, CSS & JS.
+Secure, local-first password generator.  
 
-- 🔑 Password generation & security  
+- 🔑 Generates strong passwords  
 - 🔒 No data leaves browser  
 - 🛠️ **Tech:** JavaScript, HTML, CSS  
 
-> ▶️ **Repo / More Info:** [GitHub Link](https://github.com/gemachistesfaye/Smart-PWD) 🌐
-
----
-
-### 🏫 [10-Academy-Clone](https://github.com/gemachistesfaye/10-Academy-Clone)
-Frontend clone of 10 Academy landing page.
-
-- 🎨 Clean, responsive design  
-- 🖥️ Interactive sections  
-- 🛠️ **Tech:** HTML, CSS, JavaScript  
-
-> ▶️ **Repo / More Info:** [GitHub Link](https://github.com/gemachistesfaye/10-Academy-Clone) 🌐
+> ▶️ **Live Demo:** [Live Site](https://gemachistesfaye.github.io/Smart-PWD/) 🌐
 
 ---
 
 ### 📝 [Grade Evaluator](https://github.com/gemachistesfaye/GradeEvaluator)
-Python web app that converts scores into letter grades with emoji feedback.
+Python/Flask web app converting scores into letter grades.  
 
 - ✅ Enter marks → get grade output  
 - 🖥️ Built with Python & Flask  
 - 📚 Learning project  
 
-> ▶️ **Repo / More Info:** [GitHub Link](https://github.com/gemachistesfaye/GradeEvaluator) 🌐
+> ▶️ **Live Demo:** [Live Site](https://grade-evaluator.onrender.com/) 🌐
 
 ---
+
+### 🏫 [10-Academy-Clone](https://github.com/gemachistesfaye/10-Academy-Clone)
+Frontend clone of 10 Academy landing page.  
+
+- 🎨 Clean, responsive design  
+- 🖥️ Interactive sections  
+- 🛠️ **Tech:** HTML, CSS, JavaScript  
+
+> ▶️ **Live Demo:** [Live Site](https://10academyclone.vercel.app/) 🌐
 
 ## 🧰 Skills & Tools
 
