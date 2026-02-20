@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1500&color=00F7FF&center=true&vCenter=true&width=600&repeat=false&lines=Hey%20%F0%9F%91%8B;I%27m%20Gemachis%20Tesfaye" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1500&color=00F7FF&center=true&vCenter=true&width=600&repeat=false&lines=Hey%20%F0%9F%91%8B;I'm%20Gemachis%20Tesfaye" alt="Typing SVG" />
 </h1>
 
 <h2 align="center" style="margin-top: -5px;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&delay=6000&color=FF6F61&center=true&vCenter=true&width=600&lines=Information%20Science%20Student;Aspiring%20Data%20Analyst%20%26%20Frontend%20Developer;Passionate%20about%20Design%20%26%20Innovation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&delay=6000&color=FF6F61&center=true&vCenter=true&width=600&lines=Information%20Science%20Student;Aspiring%20AI%20Engineer%20%26%20Frontend%20Developer;Passionate%20about%20Database%20Systems%20%26%20Innovation" alt="Typing SVG" />
 </h2>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
@@ -48,19 +48,23 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1200&color=FF7F50&width=500&lines=📂+Featured+Projects" alt="Featured Projects Typing Animation" />
 </h2>
 
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1200&color=FF7F50&width=500&lines=📂+Featured+Projects" alt="Featured Projects Typing Animation" />
+</h2>
+
 ### 🌐 [My Portfolio](https://gemachistesfaye.github.io/portfolio)
-Central hub for all my projects, skills, and contact info.  
+Central hub for all my projects, skills and contact info.  
 
 - 💼 Showcase of web apps, dashboards & utilities  
 - 🖥️ Live demos with interactive UI  
 - 🛠️ **Tech:** HTML, CSS, JavaScript, React  
 
-> ▶️ **Visit Portfolio:** Soon
+> ▶️ **Live Demo:** Coming Soon 🚧 (Will be ready in a few weeks)
 
 ---
 
 ### ✈️ [Ethiopian Airlines DB](https://gemachistesfaye.github.io/ethiopian-airlines-db)
-A **MySQL relational database** managing flights, crew, and student discounts.  
+A **MySQL relational database** managing flights, crew and student discounts.  
 
 - 🎓 Automated student ID discount  
 - 🗂️ ERD & 3NF normalization  
@@ -71,8 +75,8 @@ A **MySQL relational database** managing flights, crew, and student discounts.
 
 ---
 
-### 🛍️ [Abebe-Bookstore](https://github.com/gemachistesfaye/Abebe-Bookstore)
-A **responsive bookstore web app** showcasing Ethiopian books.  
+### 🛍️ [Abebe-Bookstore](https://abebebookstore.vercel.app/)
+Responsive bookstore web app showcasing Ethiopian books.  
 
 - 📚 Browse, search, filter books  
 - 🖥️ Interactive UI  
@@ -89,12 +93,26 @@ Interactive portal for Ethiopian festivals with dual calendars and reminders.
 - 🔔 Notifications & reminders  
 - 🛠️ **Tech:** TypeScript, HTML, CSS  
 
-> ▶️ **Live Demo:** Under Finish
+> ▶️ **Live Demo:** Coming Very Soon ⚡ (Almost Ready)  
+
+---
+
+### 🌱 [HUEPDC Website](https://huepdc-website12.netlify.app/)
+**Haramaya University Environmental Protection & Development Club** website (collaboration).  
+
+- 🌍 Responsive design for all devices  
+- 🎨 Modern UI with animations (Framer Motion)  
+- 📊 Data visualization with charts  
+- 📸 Image galleries and contact form integration  
+- ⚡ Optimized and deployed on Netlify  
+- 🛠️ **Tech:** React.js, JavaScript, HTML, CSS, Chart.js, EmailJS  
+
+> ▶️ **Live Website:** [Live Site](https://huepdc-website12.netlify.app/) 🌐
 
 ---
 
 ### 📊 [E-Commerce Insights Dashboard](https://gemachistesfaye.github.io/Ecommerce-Dashboard)
-**Power BI dashboard** analyzing e-commerce datasets.  
+Power BI dashboard analyzing e-commerce datasets.  
 
 - 📈 Top products, discounts & sales segments  
 - 🧹 Data cleaning & DAX visuals  
@@ -104,8 +122,8 @@ Interactive portal for Ethiopian festivals with dual calendars and reminders.
 
 ---
 
-### ⏳ [Age-Calculator](https://github.com/gemachistesfaye/Age-Calculator)
-Calculates age in years, months, and days accurately.  
+### ⏳ [Age-Calculator](https://gemachistesfaye.github.io/Age-Calculator/)
+Calculates age in years, months and days accurately.  
 
 - 🧮 Handles leap years & month boundaries  
 - 🔢 Validates all date inputs  
@@ -115,7 +133,7 @@ Calculates age in years, months, and days accurately.
 
 ---
 
-### 🛡️ [Smart-PWD](https://github.com/gemachistesfaye/Smart-PWD)
+### 🛡️ [Smart-PWD](https://gemachistesfaye.github.io/Smart-PWD/)
 Secure, local-first password generator.  
 
 - 🔑 Generates strong passwords  
@@ -126,7 +144,7 @@ Secure, local-first password generator.
 
 ---
 
-### 📝 [Grade Evaluator](https://github.com/gemachistesfaye/GradeEvaluator)
+### 📝 [Grade Evaluator](https://grade-evaluator.onrender.com/)
 Python/Flask web app converting scores into letter grades.  
 
 - ✅ Enter marks → get grade output  
@@ -137,7 +155,18 @@ Python/Flask web app converting scores into letter grades.
 
 ---
 
-### 🏫 [10-Academy-Clone](https://github.com/gemachistesfaye/10-Academy-Clone)
+### 📈 [Grade Prediction System](https://github.com/gemachistesfaye/grade-prediction-system)
+Python/ML project predicting student grades based on historical data.  
+
+- 📊 Data preprocessing and analysis  
+- 🤖 Predictive modeling using Python  
+- 🛠️ **Tech:** Python, Pandas, Scikit-learn  
+
+> ▶️ **Repo / More Info:** [GitHub Link](https://github.com/gemachistesfaye/grade-prediction-system) 🌐
+
+---
+
+### 🏫 [10-Academy-Clone](https://10academyclone.vercel.app/)
 Frontend clone of 10 Academy landing page.  
 
 - 🎨 Clean, responsive design  
@@ -145,6 +174,17 @@ Frontend clone of 10 Academy landing page.
 - 🛠️ **Tech:** HTML, CSS, JavaScript  
 
 > ▶️ **Live Demo:** [Live Site](https://10academyclone.vercel.app/) 🌐
+
+---
+
+### 🎓 [Summer Bootcamp Projects](https://github.com/gemachistesfaye/Summer-Bootcamp-Projects)
+Collection of projects completed during the **Summer Bootcamp**.  
+
+- 💡 Includes mini web apps, exercises, and challenges  
+- 🛠️ **Tech:** HTML, CSS, JavaScript, Python  
+- 🌐 Learning-focused projects showcasing skills gained during the bootcamp  
+
+> ▶️ **Repo / More Info:** [GitHub Link](https://github.com/gemachistesfaye/Summer-Bootcamp-Projects) 🌐
 
 ## 🧰 Skills & Tools
 
