@@ -239,9 +239,9 @@ Collection of projects completed during the **Summer Bootcamp**.
 ### 🚀 Currently Learning
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" title="JavaScript"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" title="React.js"/>
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" title="Power BI"/>
+  <img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=none&logoColor=white" title="Machine Learning"/>
+  <img src="https://img.shields.io/badge/Deep_Learning-EA4335?style=for-the-badge&logo=none&logoColor=white" title="Deep Learning"/>
+  <img src="https://img.shields.io/badge/AI-FF6F61?style=for-the-badge&logo=none&logoColor=white" title="Artificial Intelligence"/>
 </p>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
